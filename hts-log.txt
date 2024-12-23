@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Dec 2024 12:46:01 at http://ecom.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ecom.local/ -O1 "C:\My Web Sites\ecom" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:47:15	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/xmlrpc.php?rsd (from ecom.local/)
+12:47:15	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecom.local%2F (from ecom.local/)
+12:47:45	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/product/birdnest-japanese/ (from ecom.local/)
+12:47:45	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/?add-to-cart=243 (from ecom.local/)
+12:47:52	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/uploads/2021/08/plants-ecommerce-product-featured-img-5-300x300.jpg (from ecom.local/)
+12:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.8 (from ecom.local/)
+12:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/themes/astra/assets/js/minified/mobile-cart.min.js?ver=4.8.8 (from ecom.local/)
+12:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/plugins/variation-swatches-woo/assets/js/swatches.js?ver=1.0.12 (from ecom.local/)
+12:48:13	Error: 	"Not Found" (404) at link ecom.local/wp-content/plugins/woocommerce/assets/fonts/star.eot (from ecom.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.8)
+12:48:13	Error: 	"Not Found" (404) at link ecom.local/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from ecom.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.8)
+12:48:13	Error: 	"Not Found" (404) at link ecom.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from ecom.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.8)
+12:48:13	Error: 	"Not Found" (404) at link ecom.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot? (from ecom.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.8)
+12:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg (from ecom.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.8)
+12:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/xmlrpc.php?rsd (from ecom.local/)
+12:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/wp/v2/pages/252 (from ecom.local/about/)
+12:48:13	Warning: 	Moved Permanently for ecom.local/?p=252
+12:48:13	Warning: 	File has moved from ecom.local/?p=252 to http://ecom.local/about/
+12:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/uploads/2021/08/plants-store-gallery-img-1.jpg (from ecom.local/about/)
+12:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/uploads/2021/08/plants-store-gallery-img-3.jpg (from ecom.local/about/)
+12:48:14	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/uploads/elementor/css/post-357.css?ver=1734938185 (from ecom.local/contact/)
+12:48:14	Warning: 	Moved Permanently for ecom.local/?p=357
+12:48:14	Warning: 	File has moved from ecom.local/?p=357 to http://ecom.local/contact/
+12:48:14	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecom.local%2Fcontact%2F (from ecom.local/contact/)
+12:48:14	Warning: 	Moved Permanently for ecom.local/?p=1175
+12:48:14	Warning: 	File has moved from ecom.local/?p=1175 to http://ecom.local/cart/
+12:48:14	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecom.local%2Fcart%2F&format=xml (from ecom.local/cart/)
+12:48:18	Warning: 	Moved Permanently for ecom.local/?p=242
+12:48:18	Warning: 	File has moved from ecom.local/?p=242 to http://ecom.local/product/hoya-obovatum/
+12:48:18	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fecom.local%2Fproduct%2Fhoya-obovatum%2F&format=xml (from ecom.local/product/hoya-obovatum/)
+12:48:18	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/wp/v2/product/241 (from ecom.local/product/monstera-deliciosa/)
+12:48:18	Warning: 	Moved Permanently for ecom.local/?p=241
+12:48:18	Warning: 	File has moved from ecom.local/?p=241 to http://ecom.local/product/monstera-deliciosa/
+12:48:19	Warning: 	Moved Permanently for ecom.local/?p=240
+12:48:19	Warning: 	File has moved from ecom.local/?p=240 to http://ecom.local/product/zz-plants/
+12:48:19	Warning: 	Moved Permanently for ecom.local/?p=239
+12:48:19	Warning: 	File has moved from ecom.local/?p=239 to http://ecom.local/product/bird-of-paradise/
+12:48:19	Warning: 	Moved Permanently for ecom.local/?p=238
+12:48:19	Warning: 	File has moved from ecom.local/?p=238 to http://ecom.local/product/calathea-beauty-star/
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from ecom.local/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.9.2.3)
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/-negative.svg (from ecom.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.3)
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/OPR/ (from ecom.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.3)
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/optusnet.com.au (from ecom.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/com.au (from ecom.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+12:48:19	Error: 	"Not Found" (404) at link ecom.local/net.au (from ecom.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+12:48:19	Error: 	"No data (connection closed)" (-4) after 2 retries at link ecom.local/xmlrpc.php?rsd (from ecom.local/)
+12:48:19	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-json/wp/v2/pages/252 (from ecom.local/about/)
+12:48:19	Warning: 	Retry after error -4 (No data (connection closed)) at link ecom.local/wp-content/uploads/2021/08/plants-store-gallery-img-1.jpg (from ecom.local/about/)
+12:48:19	Warning: 	Moved Permanently for ecom.local/?p=243
+12:48:19	Warning: 	File has moved from ecom.local/?p=243 to http://ecom.local/product/birdnest-japanese/
+12:48:20	Error: 	"No data (connection closed)" (-4) after 2 retries at link ecom.local/wp-content/uploads/2021/08/plants-store-gallery-img-1.jpg (from ecom.local/about/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 19 seconds : 219 links scanned, 177 files written (8197112 bytes overall) [2941339 bytes received at 21160 bytes/sec], 8443480 bytes transferred using HTTP compression in 158 files, ratio 17%, 7.3 requests per connection
+(12 errors, 38 warnings, 0 messages)
